@@ -2,7 +2,7 @@
 
 ## What is a "quote"
 
-Quote is a written repetition of a phrase or multiple phrases from speech. 
+Quote is a written repetition of one or more phrases from speech. 
 The main goal of writing quotes is to remember entertaining phrases.
 
 Example of a quote:
@@ -15,13 +15,13 @@ Example of a quote:
    If you really want to quote your own phrase, include other people's phrases or actions.
 2. Only quote phrases that are not already saved in the chat.
 3. Stick to quoting spoken phrases.
-   If a phrase you want to quote is written in a chat. you can just forward it.
+   If a phrase you want to quote is written in a chat, you can just forward it.
    However, you can include messages in a quote **if they provide context to spoken phrases**.
 4. Stick to quoting people from Innopolis or in Innopolis. 
    If you want to share an entertaining phrase of your relative, friend from your city, etc., you can just send it.
    However, you can freely include them in quotes with people from Innopolis **other than yourself**.
 5. Do not quote if explicitly asked not to.
-   If a person does not want you to share his word, he/she most probably has a reason for it.
+   If a person does not want you to share his word, they most probably have a reason for it.
    Maintaining a good relationship is more important than writing a funny quote.
 6. Edit quote if corrected. 
    You can forget or misinterpret details, that other person will remember better.
